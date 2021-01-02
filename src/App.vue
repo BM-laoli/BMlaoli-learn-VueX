@@ -3,7 +3,7 @@
     <p>{{ $store.state.contuned }}</p>
     <button @click="additon">+</button>
     <button @click="subraction">-</button>
-    <h1>------我是有个bm老李的git的界面--------</h1>
+    <h1>------我是有个bm老李的giwt的界面--------</h1>
     <bmlao></bmlao>
 
     <p>{{ $store.state.info }}</p>
