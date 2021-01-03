@@ -3,12 +3,12 @@
     <p>{{ $store.state.contuned }}</p>
     <button @click="additon">+</button>
     <button @click="subraction">-</button>
-    <h1>------我是有个bm老李的giwt的界面--------</h1>
+    <h1>------测试代码提交--------</h1>
     <bmlao></bmlao>
 
     <p>{{ $store.state.info }}</p>
     <button @click="uplateInfo">修改信息</button>
-    <h1>-------我是测试响应式的数据-------</h1>
+    <h1>-------ce-------</h1>
     <div>
       <p>{{ $store.state.info }}</p>
     </div>
