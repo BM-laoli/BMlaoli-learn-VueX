@@ -3,7 +3,7 @@
     <p>{{ $store.state.contuned }}</p>
     <button @click="additon">+</button>
     <button @click="subraction">-</button>
-    <h1>------来自李仕增的jenkins测试--------</h1>
+    <h1>------测试-------</h1>
     <bmlao></bmlao>
 
     <p>{{ $store.state.info }}</p>
